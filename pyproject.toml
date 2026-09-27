@@ -1,0 +1,10 @@
+[project]
+name = "challenge-1d-and-2d-kinematics-and-computational-visualization-basics"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.11"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+]
