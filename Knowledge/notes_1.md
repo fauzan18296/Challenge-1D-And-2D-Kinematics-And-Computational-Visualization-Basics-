@@ -57,11 +57,7 @@ Khusus untuk kasus Anda dengan **sudut elevasi $45^\circ$** ($\sin 45^\circ = \f
 
 * **Jika diketahui Jarak Terjauh ($x_{max}$):**
 ```math
-g \(= \frac{v_0^2}{x_{max}} \%\%\)MAGIT_PARSER_PROTECT%%
-```
-
+g \(= \frac{v_0^2}{x_{max}} \%\%\)MAGIT_PARSER_PROTECT%%```
 * **Jika diketahui Ketinggian Maksimum ($y_{max}$):**
-* 
 ```math
-g \(= \frac{v_0^2}{4 \cdot y_{max}} \%\%\)MAGIT_PARSER_PROTECT%%
-```
+g \(= \frac{v_0^2}{4 \cdot y_{max}} \%\%\)MAGIT_PARSER_PROTECT%%```
