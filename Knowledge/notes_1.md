@@ -56,7 +56,7 @@ Jika benda berada di planet lain atau Anda sedang melakukan eksperimen mandiri, 
 Khusus untuk kasus Anda dengan **sudut elevasi $45^\circ$** ($\sin 45^\circ = \frac{1}{2}\sqrt{2}$), rumusnya menjadi sangat sederhana:
 
 * **Jika diketahui Jarak Terjauh ($x_{max}$):**
-```math
+```mathga
 g \(= \frac{v_0^2}{x_{max}} \%\%\)MAGIT_PARSER_PROTECT%%```
 * **Jika diketahui Ketinggian Maksimum ($y_{max}$):**
 ```math
