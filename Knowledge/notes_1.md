@@ -60,3 +60,4 @@ $$g = \frac{v_0^2}{x_{max}}$$
 * **Jika diketahui Ketinggian Maksimum ($y_{max}$):**
 
 $$g = \frac{v_0^2}{4 \cdot y_{max}}$$
+    
